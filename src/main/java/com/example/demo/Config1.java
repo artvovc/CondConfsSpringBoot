@@ -18,6 +18,11 @@ public class Config1 {
     }
 }
 
+
+
+
+
+
 class MyCond implements Condition {
 
 
